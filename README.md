@@ -4414,3 +4414,4 @@ MIDDLEWARE_CLASSES = (
 ```
 
 这样就可以使用中间件了。
+# newbookstore
